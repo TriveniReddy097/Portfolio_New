@@ -36,3 +36,9 @@
     flex-shrink: 0;
     user-select: none;
 }
+
+@media (max-width: 768px) {
+    .about {
+        margin-top: 1.8em;
+    }
+}
