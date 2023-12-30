@@ -17,12 +17,12 @@ const Education = () => {
                 </div>
                 <br />
                 <div className="education">
-                    <h3>BTech, Electronics and COmmunication Engineering</h3>
+                    <h3>BTech, Electronics and Communication Engineering</h3>
                     <h4>NIT Durgapur</h4>
-                    <h6>2023 - 2025</h6>
+                    <h6>2016 - 2020</h6>
                     <br />
                     <img class="education__imagelink" src={NITDgp} alt="NIT Durgapur" />
-                    <p class="education__description">Ranked top 1% in the program with a CGPA of 9.32/10. Memeber of NCC and Web Design &amp; Creative Team.</p>
+                    <p class="education__description">Ranked top 5% in the program with a CGPA of 9.32/10. Memeber of NCC and Web Design &amp; Creative Team.</p>
                 </div>
             </div>
         </div>
