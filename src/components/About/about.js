@@ -4,10 +4,10 @@ import '../../App.css'
 const About = () => {
     return (
         <div className='about center'>
-            <h1>Hello, I am <span className='about-name'>Triveni Gudidoddi.</span></h1>
+            <h1>Hello, This is <span className='about-name'>Triveni Gudidoddi.</span></h1>
             <h2 className='about__role'>Software Developer and a Tech Geek.</h2>
             <p className="about__desc">
-                A Computer Science student & passionate Full Stack Software Developer having an experience of building Web and Mobile applications and some other cool libraries and frameworks.I am currently pursing my masters degree. Previously I worked as a Software Engineer and as well as a freelancer. My research activities include Machine Learning, NLP, Docker, DevOps and many more.
+                A Computer Science student & passionate Full Stack Software Developer having an experience in building Web and Mobile applications and some other cool libraries and frameworks. I am currently pursing my masters degree. Previously, I worked as a Software Engineer as well as a freelancer. My research activities include Machine Learning, NLP, Docker, DevOps and many more.
             </p>
             <div className='about__contact center'>
                 <a href="https://github.com/TriveniReddy097" target="_blank" rel="noreferrer" className='link link--icon'>
