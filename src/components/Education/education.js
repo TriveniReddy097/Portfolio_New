@@ -1,6 +1,6 @@
-import './education.css';
 import '../../App.css';
 import NITDgp from '../../assets/nitdgp.2accd723.jpeg';
+import './education.css';
 
 const Education = () => {
     return (
@@ -8,7 +8,7 @@ const Education = () => {
             <h2 className="section__title">Education </h2>
             <div className="education__grid">
                 <div className="education">
-                    <h3>MS in Computer Science</h3>
+                    <h3>Masters in Computer Science</h3>
                     <h4>University of Florida, Gainesville</h4>
                     <h6>2023 - 2025</h6>
                     <br />
@@ -17,7 +17,7 @@ const Education = () => {
                 </div>
                 <br />
                 <div className="education">
-                    <h3>BTech, Electronics and Communication Engineering</h3>
+                    <h3>Bachelors, Electronics and Communication Engineering</h3>
                     <h4>NIT Durgapur</h4>
                     <h6>2016 - 2020</h6>
                     <br />
